@@ -156,12 +156,12 @@ h1,
 
 @media (max-width: 600px) {
   figure{
-    width: 290px;
+    width: 330px;
     height: 470px;
   }
   figure .frontal{
     height: 470px;
-    width: 290px;
+    width: 330px;
   }
   figure .trasera .titulo{
     font-size: 18px;
